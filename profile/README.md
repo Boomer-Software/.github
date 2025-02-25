@@ -1,23 +1,56 @@
-📌 Boomer
+<div align="center">
+  <img src="../assets/logo.png" alt="Boomer Logo" width="200"/>
+</div>
 
-Hey Boomer! Welkom bij ons White Label Planningsplatform – dé flexibele oplossing voor efficiënt plannen, samenwerken en organiseren.
+# 👋 Welkom bij Boomer
 
-🚀 Wat is dit?
-Dit is een openbare README voor ons platform. De code is privé, maar hier delen we info, updates en mogelijke open-source bijdragen.
+Boomer is jouw complete white-label planningsoplossing voor efficiënt personeelsmanagement en planning.
 
-🛠 Kenmerken
+## 🎯 Wat bieden wij?
 
-✔ Volledig white-label – pas het aan naar jouw merk
-✔ Slimme planning & samenwerking – taken, projecten en teams beheren
-✔ Schaalbaar & veilig – voor startups én grote bedrijven
+<div align="center">
+  <img src="../assets/mock_1.png" alt="Platform Overview" width="600"/>
+</div>
 
-📖 Documentatie & Support
+### 🚀 Belangrijkste functies
 
-📚 Docs: [Link naar documentatie]
-💬 Support: [Link naar contact]
-🚀 Demo aanvragen: [Link naar demo]
+- **White-label Oplossing**: Volledig aan te passen naar jouw merk
+- **Slimme Planning**: Automatische planning met onze geavanceerde autoplanner
+- **Personeelsbeheer**: Eenvoudig beheer van je complete personeelsbestand
+- **Urenregistratie**: Gestroomlijnde urenregistratie en validatie
 
-🎯 Voor wie?
-✅ Organisaties die een flexibel planningssysteem zoeken
+<div align="center">
+  <img src="../assets/mock_2.png" alt="Planning Interface" width="400"/>
+  <img src="../assets/mock_3.png" alt="Mobile App" width="400"/>
+</div>
 
-Blijf op de hoogte voor open-source tools en updates! 🚀
+## 💪 Voor wie?
+
+- ✅ Uitzendbureaus
+- ✅ Horeca ondernemingen
+- ✅ Evenementenorganisaties
+- ✅ Facilitaire dienstverleners
+
+## 🛠 Technische mogelijkheden
+
+<div align="center">
+  <img src="../assets/mock_4.png" alt="Technical Features" width="600"/>
+</div>
+
+- 📱 Native apps voor iOS en Android
+- 🔄 API-integraties
+- 🔐 Enterprise-grade beveiliging
+- ☁️ Schaalbare cloud-infrastructuur
+
+## 📞 Contact
+
+- 📧 Email: info@okboomr.nl
+- 🏢 Adres: Rigakade 10, Amsterdam
+- 🌐 Website: [heyboomer.nl](https://heyboomer.nl)
+
+---
+
+<div align="center">
+  <b>Klaar om je planning naar het volgende niveau te tillen?</b><br>
+  <a href="https://heyboomer.nl/demo">Vraag een demo aan</a>
+</div>
