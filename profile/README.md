@@ -9,7 +9,8 @@ Boomer is jouw complete white-label planningsoplossing voor efficiënt personeel
 ## 🎯 Wat bieden wij?
 
 <div align="center">
-  <img src="../assets/mock_1.png" alt="Platform Overview" width="600"/>
+  <img src="../assets/mock_1.png" alt="Platform Overview" width="400"/>
+  <img src="../assets/mock_2.png" alt="Planning Interface" width="400"/>
 </div>
 
 ### 🚀 Belangrijkste functies
@@ -20,8 +21,8 @@ Boomer is jouw complete white-label planningsoplossing voor efficiënt personeel
 - **Urenregistratie**: Gestroomlijnde urenregistratie en validatie
 
 <div align="center">
-  <img src="../assets/mock_2.png" alt="Planning Interface" width="400"/>
   <img src="../assets/mock_3.png" alt="Mobile App" width="400"/>
+  <img src="../assets/mock_4.png" alt="Technical Features" width="400"/>
 </div>
 
 ## 💪 Voor wie?
@@ -32,10 +33,6 @@ Boomer is jouw complete white-label planningsoplossing voor efficiënt personeel
 - ✅ Facilitaire dienstverleners
 
 ## 🛠 Technische mogelijkheden
-
-<div align="center">
-  <img src="../assets/mock_4.png" alt="Technical Features" width="600"/>
-</div>
 
 - 📱 Native apps voor iOS en Android
 - 🔄 API-integraties
