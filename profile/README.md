@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="../assets/logo.png" alt="Boomer Logo" width="200"/>
-</div>
-
 # 👋 Welkom bij Boomer
 
 Boomer is jouw complete white-label planningsoplossing voor efficiënt personeelsmanagement en planning.
